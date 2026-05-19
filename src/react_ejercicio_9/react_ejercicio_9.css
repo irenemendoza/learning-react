@@ -1,0 +1,11 @@
+#ejercicio9{
+    #content{
+        display: flex;
+        gap: 3px;
+        margin-bottom: 30px;
+    }
+    p{ margin:5px 0}
+    ul{
+        margin: 0 0 5px 0;
+    }
+}
