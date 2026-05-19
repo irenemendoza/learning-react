@@ -1,0 +1,1 @@
+#ejercicio3content{flex-direction:column;display:flex}#ejercicio3content #input{justify-content:center;gap:1rem;display:flex}#ejercicio3content hr{background-color:#ccc;border:none;height:1px;margin:1.5rem 0}#ejercicio3content li{grid-template-columns:4fr 1fr;align-items:center;width:fit-content;margin:0 auto .5rem;display:grid}#ejercicio3content li button{padding:.5rem}

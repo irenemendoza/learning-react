@@ -1,0 +1,1 @@
+import{n as e}from"./Layout-D-kQW1xA.js";var t=e(),n=({onMyClick:e,children:n})=>(0,t.jsx)(`button`,{onClick:e,className:`bg-blue-500 text-white p-2 rounded-md cursor-pointer mb-5`,children:n});export{n as t};
